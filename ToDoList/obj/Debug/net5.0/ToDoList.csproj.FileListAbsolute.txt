@@ -1,0 +1,16 @@
+C:\Users\chase\onedrive\desktop\epicodusC\ToDo.Solution\ToDoList\bin\Debug\net5.0\ToDoList.deps.json
+C:\Users\chase\onedrive\desktop\epicodusC\ToDo.Solution\ToDoList\bin\Debug\net5.0\ToDoList.dll
+C:\Users\chase\onedrive\desktop\epicodusC\ToDo.Solution\ToDoList\bin\Debug\net5.0\ref\ToDoList.dll
+C:\Users\chase\onedrive\desktop\epicodusC\ToDo.Solution\ToDoList\bin\Debug\net5.0\ToDoList.pdb
+C:\Users\chase\onedrive\desktop\epicodusC\ToDo.Solution\ToDoList\obj\Debug\net5.0\ToDoList.csproj.AssemblyReference.cache
+C:\Users\chase\onedrive\desktop\epicodusC\ToDo.Solution\ToDoList\obj\Debug\net5.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chase\onedrive\desktop\epicodusC\ToDo.Solution\ToDoList\obj\Debug\net5.0\ToDoList.AssemblyInfoInputs.cache
+C:\Users\chase\onedrive\desktop\epicodusC\ToDo.Solution\ToDoList\obj\Debug\net5.0\ToDoList.AssemblyInfo.cs
+C:\Users\chase\onedrive\desktop\epicodusC\ToDo.Solution\ToDoList\obj\Debug\net5.0\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\chase\onedrive\desktop\epicodusC\ToDo.Solution\ToDoList\obj\Debug\net5.0\ToDoList.dll
+C:\Users\chase\onedrive\desktop\epicodusC\ToDo.Solution\ToDoList\obj\Debug\net5.0\ref\ToDoList.dll
+C:\Users\chase\onedrive\desktop\epicodusC\ToDo.Solution\ToDoList\obj\Debug\net5.0\ToDoList.pdb
+C:\Users\chase\OneDrive\Desktop\epicodusC\ToDo.Solution\ToDoList\bin\Debug\net5.0\ToDoList.exe
+C:\Users\chase\OneDrive\Desktop\epicodusC\ToDo.Solution\ToDoList\bin\Debug\net5.0\ToDoList.runtimeconfig.json
+C:\Users\chase\OneDrive\Desktop\epicodusC\ToDo.Solution\ToDoList\bin\Debug\net5.0\ToDoList.runtimeconfig.dev.json
+C:\Users\chase\OneDrive\Desktop\epicodusC\ToDo.Solution\ToDoList\obj\Debug\net5.0\ToDoList.genruntimeconfig.cache
